@@ -32,7 +32,7 @@ This system demonstrates practical expertise in building AI agentic systems that
 - **Type-Safe Configuration**: Strongly-typed configuration management with validation and environment variable support
 - **Production Patterns**: Implements logging, structured error handling, and configuration validation following industry best practices
 
-### AI/ML Engineering Expertise Demonstrated
+### AI/ML Engineering
 
 - **LLM Integration**: Deep understanding of OpenAI's Chat Completions API, function calling, and message formatting
 - **Prompt Engineering**: Sophisticated system prompts that guide agent behavior and ensure consistent, professional responses
